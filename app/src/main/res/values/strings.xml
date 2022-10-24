@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Groupie Application</string>
+    <string name="tx_loading">Don\'t add when loading view is visible</string>
+
+    <string name="title">Updated at: %d</string>
+    <string name="content">This is title with position %s</string>
+    <string name="tx_old">Old Data</string>
+    <string name="tx_add_new">Add new data</string>
+</resources>
